@@ -1,1 +1,3 @@
-# evanhszeto.github.io
+# Evan Szeto
+
+Hi, welcome to my photography portfolio!
